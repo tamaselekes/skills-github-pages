@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: A blog about the industrialization of the crypto sphere
 ---
 
